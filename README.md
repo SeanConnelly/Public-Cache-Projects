@@ -6,7 +6,6 @@ A list of projects written in Caché that are openly available to use and learn 
 |Name   |Description   |
 |---|---|
 |[Caché Git](https://github.com/intersystems-ru/cache-tort-git)|Source Version Control plug-in for Caché Studio. Caché Git allows working with git-repos straight from Caché Studio.|
-|[Caché Tort Git](https://github.com/intersystems-ru/cache-tort-git)|Source Version Control plug-in for Caché Studio. Caché Git allows working with git-repos straight from Caché Studio.|
 |[Cache UDL Export](https://github.com/intersystems-ru/cache-udl)|Export/Import sources in UDL format for ISC Caché 2016.2|
 |[Cache Source Control](https://github.com/intersystems-ru/cache-source-control)|The simplest source control for Caché Studio|
 |[CPM](https://github.com/intersystems-ru/CPM)|Cache Package Manager (work in progress)|

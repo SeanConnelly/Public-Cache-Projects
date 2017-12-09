@@ -15,8 +15,6 @@ A list of projects written in Caché that are openly available to use and learn 
 |[Port](https://github.com/intersystems-ru/port)|Port is a VCS-agnostic Caché Studio source control utility to export or import Caché files based on projects instead of namespaces.|
 |[GitHub Updater](https://github.com/intersystems-ru/CacheUpdater)|Sync GitHub repositories into InterSystems Cache.|
 |[GitHub CI](https://github.com/intersystems-ru/CacheGitHubCI)|Continuous Integration for InterSystems Caché and GitHub.|
-|[]()||
-|[]()||
 
 # Code Analysis
 |Name   |Description   |
@@ -26,8 +24,6 @@ A list of projects written in Caché that are openly available to use and learn 
 |[EA UML](https://github.com/intersystems-ru/cache-ea-uml)|Provides Export/Import tools from InterSystems Caché to UML Enterprise Architect. XMI 2.1.|
 |[Class Viz](https://github.com/intersystems-ru/ClassViz)|Generate diagrams to visualize relationships between Caché Classes|
 |[Cache Ontodia](https://github.com/intersystems-ru/cache-ontodia)|An Ontodia Class explorer for InterSystems Caché.|
-|[]()||
-|[]()||
 
 # Editors
 |Name   |Description   |
@@ -41,7 +37,6 @@ A list of projects written in Caché that are openly available to use and learn 
 |[Studio Themes](https://github.com/doublefint/CacheColorTheme)|Different color themes for Caché Studio|
 |[Source API](http://docs.intersystems.com/latest/csp/docbook/DocBook.UI.Page.cls?KEY=GSCF_ref#GSCF_C29114)|Official Caché Source Code File REST interface (documentation)|
 |[Cosmic Web Editor](https://github.com/intersystems-ru/cosmic)|A Web-based editor for InterSystems Caché, inspired by Ace|
-|[]()||
 
 # Guides
 |Name   |Description   |
@@ -159,7 +154,6 @@ A list of projects written in Caché that are openly available to use and learn 
 |[DeepSee Custom Widgets](https://github.com/intersystems-ru/dswaddons)|This repository contains several examples of custom widgets for DeepSeeWeb.|
 |[DeepSee Habr](https://github.com/intersystems-ru/habr_analytics)|DeepSee solution to analyze habr articles and authors|
 |[Dsw map](https://github.com/intersystems-ru/dsw-map)|Map examples of different regions to render in DeepSeeWeb|
-|[]()||
 
 # Other Examples
 
@@ -173,7 +167,6 @@ A list of projects written in Caché that are openly available to use and learn 
 |[Rule Engine](https://github.com/intersystems-ib/cache-iat-ruleengine)|The purpose of this repository is to provide an example of how a Rule Engine can be implemented in InterSystems Caché using Object Generators.|
 |[Global Summit 2016](https://github.com/intersystems/GS2016-sessions)|Code from Global Summit 2016 sessions (AWS,Analytics,Big Learning,Credit Card Security, Distributed SQL Security, LDAP, OAuth.)|
 |[Pub Sub Example](https://github.com/intersystems-ib/cache-iat-pubsub)|The purpose of this repository is to provide a simple example of Publisher-Subscriber model implemented using InterSystems Caché.|
-|[]()||
 
 # Ensemble
 

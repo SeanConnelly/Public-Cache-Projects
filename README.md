@@ -36,6 +36,8 @@ A list of projects written in Caché that are openly available to use and learn 
 |[Studio Themes](https://github.com/doublefint/CacheColorTheme)|Different color themes for Caché Studio|
 |[Source API](http://docs.intersystems.com/latest/csp/docbook/DocBook.UI.Page.cls?KEY=GSCF_ref#GSCF_C29114)|Official Caché Source Code File REST interface (documentation)|
 |[Cosmic Web Editor](https://github.com/intersystems-ru/cosmic)|A Web-based editor for InterSystems Caché, inspired by Ace|
+|[Web Terminal](https://github.com/intersystems-ru/webterminal)|Web-based Caché terminal for InterSystems products. Access your database from everywhere!|
+
 
 # Guides
 |Name   |Description   |
@@ -104,12 +106,17 @@ A list of projects written in Caché that are openly available to use and learn 
 |[DeepSee Map USA](https://github.com/intersystems-ru/deepsee_usmap)|USA map in deepsee using polygons and am|
 |[DeepSee Map Ukraine](https://github.com/intersystems-ru/deepsee-map-ukraine)|DeepSee Map Ukraine|
 |[CacheCrypto](https://github.com/intersystems-ru/CacheCrypto)|The project is designed to develop the possibilities of using MS CryptoAPI for solutions based on the Cache DBMS.|
+|[iscapi](https://github.com/intersystems-ru/iscapi)|Intermediate library between Caché and any MSCAPIv2-compatible CSPs |
 |[SC API 4 NODE](https://github.com/doublefint/cos-api4node)|InterSystems Atelier REST API wrapper for NodeJS. Supports v1 Atelier API.|
 |[EWD Gateway 2](https://github.com/robtweed/ewdGateway2)|Node.js-based EWD Gateway for MongoDB, Caché, GlobalsDB and GT.M|
 |[Caché Web API](https://github.com/KarlPurk/Cache-Web-API)|The API is essentially a gateway between the client and server side. The client side application will utilise the API to fetch data and post updates to the server side.|
 |[Util Classes](https://github.com/eduard93/Utils/tree/master/Utils)|A set of useful utility classes|
 |[Make Phone Calls](https://github.com/DLSNNG/CacheTwilioClient)|Make phone calls using Twilio and Cache Objectscript|
 |[OnFORME](http://onforme.sourceforge.net/)|Online Feedback Organization, Requesting and Monitoring for Educators|
+|[Modest4Cache](https://github.com/intersystems-ru/Modest4Cache)| CNA interface to [Modest](https://github.com/lexborisov/Modest) HTML parser/renderer with css queries support|
+|[WebDAV](https://github.com/intersystems-ru/WebDAV)|WebDAV server implementation in InterSystems Caché|
+|[Caché Localization Manager](https://github.com/intersystems-ru/cache-localization-manager)|Tool for translating Caché message dictionaries.|
+
 
 # JSON Libraries
 |Name|Description|
@@ -117,12 +124,15 @@ A list of projects written in Caché that are openly available to use and learn 
 |[Cogs JSON](https://github.com/SeanConnelly/Cogs)|A small & efficient JSON library for serialising and deserialising JSON to Caché class objects. Backwards compatible.|
 |[JSON Adapter](https://github.com/dkutac/cache-json-regular-vs-dynamic-object)|A simple JSON adapter between dynamic and "regular" Cache objects and vice versa|
 |[JSON CLS](https://github.com/jasonmimick/json-cls)|Generate and Integrate with Caché classes from json documents over HTTP|
+|[RESTForms](https://github.com/intersystems-ru/RESTForms)| Generalized REST API backend for web applications built on InterSystems (Caché or Ensemble) backend.|
+
 
 # Web Development Samples
 |Name|Description|
 |---|---|
 |[CacheRESTStack](https://github.com/iscChris/CacheRESTStack)|An example Angular 1.x site with a Caché REST backend. This codebase is to support the "Let's write an Angular 1.x app with a Caché REST backend" series of articles on the Intersystems Developer Community. It requires Caché 2016.2+ to compile the server components.|
 |[TODO App](https://github.com/DannyWijnschenk/todoApp)|Sample todo app using AngularJS & Caché|
+|[RESTForms UI](https://github.com/intersystems-ru/RESTFromsUI)|An implementation of RESTForms UI built with AngularJS.|
 |[RESTForms UI React](https://github.com/intersystems-ru/RESTFromsUI-react)|An implementation of RESTForms UI built with React. It also uses Antd as main UI library.|
 |[WebSockets Tutorial](https://github.com/intersystems-ru/websockets-tutorial)|Caché websockets tutorial|
 |[WebSockets Sample](https://github.com/intersystems-ru/WebSocketsSample)|Simple WebSockets comunication example for InterSystems Caché|
@@ -131,7 +141,6 @@ A list of projects written in Caché that are openly available to use and learn 
 |[JS Tree Example](https://github.com/doublefint/jstree)|Using jstree (http://jstree.com) with Intersystems Caché|
 |[Angular Demo on Caché](https://github.com/DannyWijnschenk/superheroes)|Marvel's Superheroes demo on Caché DocDM|
 |[REST best practices](https://github.com/intersystems/rest-and-relaxation)|An example of a REST web service implemented with ObjectScript that demonstrates a number of development best practices. This is the companion to a live webinar presented by InterSystems Learning Services on December 7, 2017.|
-|[]()||
 
 # iKnow Examples
 |Name|Description|
@@ -144,15 +153,18 @@ A list of projects written in Caché that are openly available to use and learn 
 |[iKnow Social](https://github.com/intersystems-ru/iknowSocial)|iKnow implementation approach for social networks (vkontakte, facebook and twitter)|
 |[iKnow iFind Portal Demo](https://github.com/bdeboe/isc-iknow-ifindportal)|A Search Portal demo app for iFind, part of InterSystems' iKnow technology|
 |[iKnow Trader](https://github.com/DannyWijnschenk/trader)|Example on how to add unstructured data into an existing application, by using iKnow Rule Builder results|
-|[]()||
+|[iKnowDoc](https://github.com/intersystems-ru/iKnowDoc)|Search and categorization for InterSystems Documentation with iKnow and iFind|
 
 # DeepSee Examples
 |Name|Description|
 |---|---|
+|[Deep See Web](https://github.com/intersystems-ru/DeepSeeWeb)|Renderer for DeepSee Dashboards in Browser with MDX2JSON as a Serverside and JS web-client.|
 |[Deep See Maps](https://github.com/intersystems-ru/DeepSeeMaps)|Map examples for DeepSee Web for different regions|
 |[DeepSee Custom Widgets](https://github.com/intersystems-ru/dswaddons)|This repository contains several examples of custom widgets for DeepSeeWeb.|
 |[DeepSee Habr](https://github.com/intersystems-ru/habr_analytics)|DeepSee solution to analyze habr articles and authors|
 |[Dsw map](https://github.com/intersystems-ru/dsw-map)|Map examples of different regions to render in DeepSeeWeb|
+|[MDX2JSON](https://github.com/intersystems-ru/Cache-MDX2JSON)|RESTful web api for MDX2JSON transformation (also JSONP and XML/A). Also supports requests about Dashboards and Widgets. Supports Caché 2014.1+.|
+|[DeepSee Audit](https://github.com/intersystems-ru/deepseeaudit)|Use deeepse for caché audit.|
 
 # Other Examples
 
@@ -171,7 +183,7 @@ A list of projects written in Caché that are openly available to use and learn 
 
 |Name|Description|
 |---|---|
-|[RabitMQ Adapter](https://github.com/intersystems-ru/RabbitMQ-Ensemble-adapter)|Ensemble adapter for RabbitMQ|
+|[RabitMQ Adapter](https://github.com/intersystems-ru/RabbitMQ-Ensemble-adapter)|Ensemble adapter for RabbitMQ (or any other AMQP server)|
 |[Ensemble Workflow](https://github.com/intersystems-ru/EnsembleWorkflow)|Restful web API for InterSystems Ensemble Workflow|
 |[Ensemble Log Viewer](https://github.com/intersystems-ru/EnsLogViewer)|Ensemble Log Viewer with namespace support. Works on Ensemble 2013.1 and later.||[SMIME](https://github.com/intersystems-ru/ensemble-smime)|Sign and verify in SMIME format using InterSystems Ensemble|
 |[Ensemble Workflow UI](https://github.com/intersystems-ru/EnsembleWorkflowUI)|Angular UI for InterSystems Ensemble Workflow|

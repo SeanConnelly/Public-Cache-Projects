@@ -71,7 +71,6 @@ A list of projects written in Caché that are openly available to use and learn 
 |[MONLBL Viewer](https://github.com/intersystems-ru/monlbl-viewer)|A web UI for inspecting Caché Monitor (%MONLBL) results.|
 |[Docker ccontanermain](https://github.com/intersystems-ru/ccontainermain)|The program ccontainermain allows a Caché, Ensemble or HealthShare product to run in a Docker container. Docker containers need a PID 1 or main process to hold up the container. This is what ccontainermain provides. It is developed so that one can quickly work with Caché in a Docker container vs|
 |[AWS Caché Deployment](https://github.com/intersystems-ru/AWSCacheDeployment)|Collection of scripts for Automated deployment of InterSystems Caché instances into the Amazon cloud|
-|[DeepSee Mobile](https://github.com/intersystems-ru/DeepSeeMobile)|Phonegap application for InterSystems DeepSee™ Widgets visualization|
 |[Remote Code Execution](https://github.com/intersystems-ru/RCE)|Remote Code Execution for Caché.|
 |[UConv](https://github.com/intersystems-ru/UConv)|8 bit to unicode globals converter|
 |[CI Tool](https://bitbucket.org/rsailopal/intersystems-ci-with-jenkins/overview)|The files here are for the purpose of automating the build and provision of new Intersystems Cache namespaces. This can then be integrated with Jenkins for Continous integration and agile development.|
@@ -82,8 +81,6 @@ A list of projects written in Caché that are openly available to use and learn 
 |---|---|
 |[Ikon](https://github.com/AndreiLN/Ikon)|Identicon generator for Intersystems Caché. Good to use in Mojo applications.|
 |[Redis Cache](https://github.com/tsafin/redis-cache)|An implementation of a redis server speaking the redis wire portocol on Caché|
-|[MDX 2 JSON](https://github.com/intersystems-ru/Cache-MDX2JSON)|RESTful web api for MDX to JSON transformation (plus JSONP and XML/A) for InterSystems Caché. Also provides information about DeepSee objects.|
-|[Deep See Web](https://github.com/intersystems-ru/DeepSeeWeb)|Renderer for DeepSee Dashboards in Browser with MDX2JSON as a Serverside and JS web-client|
 |[REST Forms](https://github.com/intersystems-ru/RESTForms)|RESTForms is a generalized REST API backend for web applications built on InterSystems (Caché or Ensemble) backend.|
 |[Light Pivot Table](https://github.com/intersystems-ru/LightPivotTable)|Lightweight, fast and featured pivot table realization for Caché.|
 |[MQTT Client](https://github.com/intersystems-ru/COS-MQTTClient)|MQTT Client implemented in Caché Object Script. Fully functional sample implementation to demonstrate all kinds of MQTT Client activities (publish, subscribe).|
@@ -97,7 +94,6 @@ A list of projects written in Caché that are openly available to use and learn 
 |[MonCaché](https://github.com/intersystems-ru/MonCache)|The main purpose of the project is implementation basic MongoDB functions using Caché as a database engine.|
 |[Arduino Snippets](https://github.com/intersystems-ru/ArduinoSnippets)|Connect your Arduino to Caché via com porrt (or usb<->com)|
 |[Spatial Index](https://github.com/intersystems-ru/spatialindex)|Create spacial indexes for Caché|
-|[File Server](https://github.com/intersystems-ru/Cache-FileServer)|A Caché File Server|
 |[ASP.NET Identity](https://github.com/intersystems-ru/identity_cache)|ASP.NET Identity Cache Provider|
 |[LinQ API (Globals-EF)](https://github.com/intersystems-ru/Globals-EF)|LinQ API to work with Caché Globals from .NET Entity Framwork|
 |[Map Reduce](https://github.com/intersystems-ru/cache-map-reduce)|Simple Map-Reduce interface implementation for Caché ObjectScript|
@@ -141,6 +137,7 @@ A list of projects written in Caché that are openly available to use and learn 
 |[JS Tree Example](https://github.com/doublefint/jstree)|Using jstree (http://jstree.com) with Intersystems Caché|
 |[Angular Demo on Caché](https://github.com/DannyWijnschenk/superheroes)|Marvel's Superheroes demo on Caché DocDM|
 |[REST best practices](https://github.com/intersystems/rest-and-relaxation)|An example of a REST web service implemented with ObjectScript that demonstrates a number of development best practices. This is the companion to a live webinar presented by InterSystems Learning Services on December 7, 2017.|
+|[File Server](https://github.com/intersystems-ru/Cache-FileServer)|A Caché File Server|
 
 # iKnow Examples
 |Name|Description|
@@ -165,6 +162,7 @@ A list of projects written in Caché that are openly available to use and learn 
 |[Dsw map](https://github.com/intersystems-ru/dsw-map)|Map examples of different regions to render in DeepSeeWeb|
 |[MDX2JSON](https://github.com/intersystems-ru/Cache-MDX2JSON)|RESTful web api for MDX2JSON transformation (also JSONP and XML/A). Also supports requests about Dashboards and Widgets. Supports Caché 2014.1+.|
 |[DeepSee Audit](https://github.com/intersystems-ru/deepseeaudit)|Use deeepse for caché audit.|
+|[DeepSee Mobile](https://github.com/intersystems-ru/DeepSeeMobile)|Phonegap application for InterSystems DeepSee Widgets visualization|
 
 # Other Examples
 
